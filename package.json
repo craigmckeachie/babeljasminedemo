@@ -1,0 +1,16 @@
+{
+  "name": "babeljasminedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.4.0",
+    "babel-register": "^6.3.13",
+    "jasmine": "^2.4.1"
+  }
+}
