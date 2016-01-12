@@ -1,5 +1,6 @@
-describe('Hello Suite', () => {
-    it('first test', function () {
-        expect(1).toEqual(1);
+describe('Hello Suite', function () {
+    it('first test', () => {
+        const a = 1;
+        expect(a).toEqual(1);
     });
 });
